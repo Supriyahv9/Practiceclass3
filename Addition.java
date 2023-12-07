@@ -11,5 +11,8 @@ class Addition
 		int op = num1+num2;
 		System.out.println("Addition is : "+op);
 		System.out.println("good morning");
+		System.out.println("good morning");
+		System.out.println("good morning");System.out.println("good morning");
+		System.out.println("good morning");
 	}
 }
