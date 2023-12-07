@@ -2,6 +2,11 @@
 import java.util.Scanner;
 class Addition
 {
+
+	System.out.println("good morning");
+System.out.println("good morning");
+System.out.println("good morning");
+System.out.println("good morning");
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		System.out.print("Enter num 1 : ");
