@@ -10,5 +10,6 @@ class Addition
 		int num2 = sc.nextInt();
 		int op = num1+num2;
 		System.out.println("Addition is : "+op);
+		System.out.println("good morning");
 	}
 }
